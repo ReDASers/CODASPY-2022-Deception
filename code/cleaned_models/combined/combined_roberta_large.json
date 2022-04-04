@@ -1,0 +1,18 @@
+{
+    "datasets": [
+        "../data/Cleaned/amazon.jsonl",
+        "../data/Cleaned/email_benchmarking.jsonl",
+        "../data/Cleaned/job_scams.jsonl",
+        "../data/Cleaned/liar.jsonl",
+        "../data/Cleaned/welfake.jsonl"
+    ],
+    "base_model": "roberta-large",
+    "weighted_loss": false,
+    "lr": 5e-05,
+    "weight_decay": 0,
+    "dropout_rate": 0,
+    "max_grad_norm": 1.0,
+    "batch_size": 16,
+    "output_layers": 1,
+    "epochs": 10
+}
