@@ -20,9 +20,13 @@ We use the following datasets for our experiments:
 
 ## Code
 
-In the `data` folder, we have a set of python scripts. The `read_[dataset].py` scripts read the raw data and compile it to jsonlines. The `clean_[dataset].py` files clean the dataset. 
+In the [`data`](data) folder, we have a set of python scripts. The `read_[dataset].py` scripts read the raw data and compile it to jsonlines. The `clean_[dataset].py` files clean the dataset. 
 
 Note: Because of langdetect's stochastic nature, the datasets generated are non-deterministic. 
+
+# Experiments
+
+In the [`deep learning`](deep%20learning) folder, we have our code for the deep learning experiments. 
 
 # Citation
 
