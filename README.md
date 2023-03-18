@@ -1,6 +1,6 @@
 # Introduction
 
-This repository contains code from our CODASPY 2022 poster *Does Deception Leave a Content Independent Stylistic Trace?*
+This repository contains code from our CODASPY 2022 poster *[Does Deception Leave a Content Independent Stylistic Trace?](https://dl.acm.org/doi/10.1145/3508398.3519358)*
 
 # Datasets
 
