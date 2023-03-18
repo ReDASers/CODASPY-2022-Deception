@@ -4,6 +4,8 @@ This repository contains code from our CODASPY 2022 poster *[Does Deception Leav
 
 # Datasets
 
+You can download our cleaned datasets from [Zenodo](https://zenodo.org/record/6512468#.ZBVRUhTMLQM).
+
 We use the following datasets for our experiments: 
 
 * The **[Amazon Reviews](https://www.kaggle.com/lievgarcia/amazon-reviews)** dataset consists of 21,000 English Amazon Reviews labeled as either real or fake. The reviews cover a variety of products with no particular product dominating the dataset. We filter out the non-English reviews and mark the fake and real reviews as deceptive and non-deceptive respectively. The final dataset is evenly balanced with 10,493 deceptive samples and 10,481 non-deceptive samples. 
